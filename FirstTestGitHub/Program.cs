@@ -10,7 +10,8 @@ namespace FirstTestGitHub
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Test");
+            Console.WriteLine("Test 45");
+            Console.ReadKey();
             Console.ReadKey();
         }
     }
